@@ -1,0 +1,33 @@
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/bin/Debug/netcoreapp2.2/Pasta sem título.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/bin/Debug/netcoreapp2.2/Pasta sem título.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/bin/Debug/netcoreapp2.2/Pasta sem título.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/bin/Debug/netcoreapp2.2/Pasta sem título.dll
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/bin/Debug/netcoreapp2.2/Pasta sem título.pdb
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/obj/Debug/netcoreapp2.2/Pasta sem título.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/obj/Debug/netcoreapp2.2/Pasta sem título.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/obj/Debug/netcoreapp2.2/Pasta sem título.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/obj/Debug/netcoreapp2.2/Pasta sem título.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/obj/Debug/netcoreapp2.2/Pasta sem título.dll
+/home/mattheuspeixoto/Área de Trabalho/Pasta sem título/obj/Debug/netcoreapp2.2/Pasta sem título.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/bin/Debug/netcoreapp2.2/Pasta sem título.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/bin/Debug/netcoreapp2.2/Pasta sem título.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/bin/Debug/netcoreapp2.2/Pasta sem título.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/bin/Debug/netcoreapp2.2/Pasta sem título.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/bin/Debug/netcoreapp2.2/Pasta sem título.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/obj/Debug/netcoreapp2.2/Pasta sem título.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/obj/Debug/netcoreapp2.2/Pasta sem título.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/obj/Debug/netcoreapp2.2/Pasta sem título.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/obj/Debug/netcoreapp2.2/Pasta sem título.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/obj/Debug/netcoreapp2.2/Pasta sem título.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/obj/Debug/netcoreapp2.2/Pasta sem título.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/bin/Debug/netcoreapp2.2/Pasta sem título.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/bin/Debug/netcoreapp2.2/Pasta sem título.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/bin/Debug/netcoreapp2.2/Pasta sem título.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/bin/Debug/netcoreapp2.2/Pasta sem título.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/bin/Debug/netcoreapp2.2/Pasta sem título.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/obj/Debug/netcoreapp2.2/Pasta sem título.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/obj/Debug/netcoreapp2.2/Pasta sem título.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/obj/Debug/netcoreapp2.2/Pasta sem título.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/obj/Debug/netcoreapp2.2/Pasta sem título.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/obj/Debug/netcoreapp2.2/Pasta sem título.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/ExemploGenerico/obj/Debug/netcoreapp2.2/Pasta sem título.pdb

@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Pasta_sem_título
+{
+    /// <summary>
+    /// A 'ConcreteCreator' class
+    /// </summary>
+    class ConcreteCreatorA : Creator
+    {
+        public override Product FactoryMethod()
+        {
+            // PRODUTO CONCRETO A
+            return new ConcreteProductA();
+        }
+    }
+}

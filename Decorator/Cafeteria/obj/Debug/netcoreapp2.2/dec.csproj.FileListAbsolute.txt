@@ -1,0 +1,11 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/bin/Debug/netcoreapp2.2/dec.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/bin/Debug/netcoreapp2.2/dec.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/bin/Debug/netcoreapp2.2/dec.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/bin/Debug/netcoreapp2.2/dec.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/bin/Debug/netcoreapp2.2/dec.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/obj/Debug/netcoreapp2.2/dec.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/obj/Debug/netcoreapp2.2/dec.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/obj/Debug/netcoreapp2.2/dec.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/obj/Debug/netcoreapp2.2/dec.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/obj/Debug/netcoreapp2.2/dec.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Decorator/dec/obj/Debug/netcoreapp2.2/dec.pdb

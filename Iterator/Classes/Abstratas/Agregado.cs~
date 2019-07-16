@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace DPIterator.Classes.Abstratas
+{
+    abstract class Agregado
+    {
+        public abstract Iterador CriarIterador();
+    }
+}

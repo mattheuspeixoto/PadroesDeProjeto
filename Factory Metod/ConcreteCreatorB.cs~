@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace DPFactoryMethod2.Classes
+{
+    /// <summary>
+    /// A 'ConcreteCreator' class
+    /// </summary>
+    class ConcreteCreatorB : Creator
+    {
+        public override Product FactoryMethod()
+        {
+            // PRODUTO CONCRETO B
+            return new ConcreteProductB();
+        }
+    }
+
+}

@@ -1,0 +1,11 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/obj/Debug/netcoreapp2.2/Strat.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/obj/Debug/netcoreapp2.2/Strat.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/obj/Debug/netcoreapp2.2/Strat.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/obj/Debug/netcoreapp2.2/Strat.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/bin/Debug/netcoreapp2.2/Strat.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/bin/Debug/netcoreapp2.2/Strat.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/bin/Debug/netcoreapp2.2/Strat.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/bin/Debug/netcoreapp2.2/Strat.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/bin/Debug/netcoreapp2.2/Strat.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/obj/Debug/netcoreapp2.2/Strat.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Strat/obj/Debug/netcoreapp2.2/Strat.pdb

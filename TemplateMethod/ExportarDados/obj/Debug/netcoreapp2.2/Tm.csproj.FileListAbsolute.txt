@@ -1,0 +1,11 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/obj/Debug/netcoreapp2.2/Tm.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/obj/Debug/netcoreapp2.2/Tm.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/obj/Debug/netcoreapp2.2/Tm.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/obj/Debug/netcoreapp2.2/Tm.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/bin/Debug/netcoreapp2.2/Tm.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/bin/Debug/netcoreapp2.2/Tm.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/bin/Debug/netcoreapp2.2/Tm.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/bin/Debug/netcoreapp2.2/Tm.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/bin/Debug/netcoreapp2.2/Tm.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/obj/Debug/netcoreapp2.2/Tm.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Tm/obj/Debug/netcoreapp2.2/Tm.pdb

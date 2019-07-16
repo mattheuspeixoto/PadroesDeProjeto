@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/tm2/tm2.csproj": {}
+  },
+  "projects": {
+    "/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/tm2/tm2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/tm2/tm2.csproj",
+        "projectName": "tm2",
+        "projectPath": "/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/tm2/tm2.csproj",
+        "packagesPath": "/home/mattheuspeixoto/.nuget/packages/",
+        "outputPath": "/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/tm2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mattheuspeixoto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

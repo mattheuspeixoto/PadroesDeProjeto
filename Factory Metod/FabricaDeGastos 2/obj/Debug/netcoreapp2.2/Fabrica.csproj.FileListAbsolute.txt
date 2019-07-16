@@ -1,0 +1,17 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/bin/Debug/netcoreapp2.2/Fabrica.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/bin/Debug/netcoreapp2.2/Fabrica.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/bin/Debug/netcoreapp2.2/Fabrica.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/bin/Debug/netcoreapp2.2/Fabrica.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/bin/Debug/netcoreapp2.2/Fabrica.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/obj/Debug/netcoreapp2.2/Fabrica.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/obj/Debug/netcoreapp2.2/Fabrica.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/obj/Debug/netcoreapp2.2/Fabrica.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/obj/Debug/netcoreapp2.2/Fabrica.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/obj/Debug/netcoreapp2.2/Fabrica.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Fabrica/obj/Debug/netcoreapp2.2/Fabrica.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/FabricaDeGastos 2/obj/Debug/netcoreapp2.2/Fabrica.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/FabricaDeGastos 2/obj/Debug/netcoreapp2.2/Fabrica.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/FabricaDeGastos 2/obj/Debug/netcoreapp2.2/Fabrica.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/FabricaDeGastos 2/obj/Debug/netcoreapp2.2/Fabrica.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/FabricaDeGastos 2/obj/Debug/netcoreapp2.2/Fabrica.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Factory Metod/FabricaDeGastos 2/obj/Debug/netcoreapp2.2/Fabrica.pdb

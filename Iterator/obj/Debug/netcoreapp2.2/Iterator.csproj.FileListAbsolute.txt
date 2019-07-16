@@ -1,0 +1,11 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/obj/Debug/netcoreapp2.2/Iterator.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/obj/Debug/netcoreapp2.2/Iterator.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/obj/Debug/netcoreapp2.2/Iterator.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/obj/Debug/netcoreapp2.2/Iterator.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/bin/Debug/netcoreapp2.2/Iterator.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/bin/Debug/netcoreapp2.2/Iterator.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/bin/Debug/netcoreapp2.2/Iterator.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/bin/Debug/netcoreapp2.2/Iterator.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/bin/Debug/netcoreapp2.2/Iterator.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/obj/Debug/netcoreapp2.2/Iterator.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Iterator/obj/Debug/netcoreapp2.2/Iterator.pdb

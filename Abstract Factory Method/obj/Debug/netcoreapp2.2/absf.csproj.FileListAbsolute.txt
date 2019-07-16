@@ -1,0 +1,11 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/bin/Debug/netcoreapp2.2/absf.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/bin/Debug/netcoreapp2.2/absf.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/bin/Debug/netcoreapp2.2/absf.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/bin/Debug/netcoreapp2.2/absf.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/bin/Debug/netcoreapp2.2/absf.pdb
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/obj/Debug/netcoreapp2.2/absf.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/obj/Debug/netcoreapp2.2/absf.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/obj/Debug/netcoreapp2.2/absf.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/obj/Debug/netcoreapp2.2/absf.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/obj/Debug/netcoreapp2.2/absf.dll
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/absf/obj/Debug/netcoreapp2.2/absf.pdb

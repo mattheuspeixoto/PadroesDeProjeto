@@ -1,0 +1,4 @@
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Composite/obj/Debug/netcoreapp2.2/Composite.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Composite/obj/Debug/netcoreapp2.2/Composite.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Composite/obj/Debug/netcoreapp2.2/Composite.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Padroes De Projeto VSCode/Composite/obj/Debug/netcoreapp2.2/Composite.AssemblyInfo.cs
